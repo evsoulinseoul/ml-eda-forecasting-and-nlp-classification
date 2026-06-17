@@ -12,14 +12,12 @@ ml-eda-forecasting-and-nlp-classification/
 ├── task_1_hr_eda_forecasting/
 │   ├── README.md
 │   ├── task1_hr_eda_forecast.ipynb
-│   ├── task1_hr_eda_forecast.py
 │   ├── data/
 │   │   └── df_ITs.csv
 │   └── outputs/
 └── task_2_npa_text_classification/
     ├── README.md
     ├── task2_npa_tfidf_classification.ipynb
-    ├── task2_npa_tfidf_classification.py
     ├── data/
     │   └── README.md
     └── outputs/
