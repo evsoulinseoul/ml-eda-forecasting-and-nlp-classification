@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated outputs
+task_1_hr_eda_forecasting/outputs/*
+!task_1_hr_eda_forecasting/outputs/.gitkeep
+task_2_npa_text_classification/outputs/*
+!task_2_npa_text_classification/outputs/.gitkeep
+
+# Heavy data for task 2
+task_2_npa_text_classification/data/*.parquet
+!task_2_npa_text_classification/data/README.md
+!task_2_npa_text_classification/data/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
